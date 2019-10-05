@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//je rajoutte un commentaire pour git
 
 public class Moyenne
 {
